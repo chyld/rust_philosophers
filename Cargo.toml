@@ -1,0 +1,4 @@
+[package]
+name = "rust_philosophers"
+version = "0.1.0"
+authors = ["Chyld Medford <chyld.medford@gmail.com>"]
